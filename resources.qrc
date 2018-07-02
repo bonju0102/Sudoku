@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Music"/>
+    <qresource prefix="/music"/>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/bgm">
+        <file>resources/The Spectre.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/stopwatch.png</file>
+    </qresource>
+</RCC>
